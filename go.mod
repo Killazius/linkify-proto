@@ -1,1 +1,1 @@
-module linkify-proto
+module github.com/Killazius/linkify-proto
